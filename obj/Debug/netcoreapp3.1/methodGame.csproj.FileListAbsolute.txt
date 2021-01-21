@@ -1,0 +1,13 @@
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.csprojAssemblyReference.cache
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.AssemblyInfoInputs.cache
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.AssemblyInfo.cs
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.csproj.CoreCompileInputs.cache
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.exe
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.deps.json
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.runtimeconfig.json
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.runtimeconfig.dev.json
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.dll
+C:\Users\muftanatu\methodGame\bin\Debug\netcoreapp3.1\methodGame.pdb
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.dll
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.pdb
+C:\Users\muftanatu\methodGame\obj\Debug\netcoreapp3.1\methodGame.genruntimeconfig.cache
